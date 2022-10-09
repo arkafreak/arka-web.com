@@ -19,12 +19,13 @@ ul{
 }
 ul li{
 	display: inline-block;
+	align-items: flex;
 }
 ul li a{
 	text-decoration: none;
 	color: #fff;
 	padding:  5px 20px;
-	border: 2px solid optacity;
+	border: 2px solid transparent;
 	transition: 0.3s ease;
 }
 ul li a:hover{
