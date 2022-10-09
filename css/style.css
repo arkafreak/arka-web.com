@@ -52,8 +52,14 @@ ul li.active a{
 	transform: translate(-50%,-50%);
 }
 .title h1{
-	color:  #0;
+	color: #EFFF5F;
+	opacity: 80%;
+	font-family: initial;
 	font-size: 30px;
+	font-style: normal;
+	font-weight: 400;
+	font-variant-caps: 200;
+	font-size: bold;
 }
 .button{
 	position: absolute;
