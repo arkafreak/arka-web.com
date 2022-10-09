@@ -113,3 +113,6 @@ ul li.active a{
 	font-size: 26;
 	color: #000;
 }
+.controls{
+	opacity: 30%;
+}
