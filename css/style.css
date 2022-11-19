@@ -47,7 +47,7 @@ ul li.active a{
 }*/
 .title{
 	position: absolute;
-	top:  5%;
+	top:  28%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
@@ -55,7 +55,7 @@ ul li.active a{
 	color: #0;
 	opacity: 1000%;
 	font-family: initial;
-	font-size: 50px;
+	font-size: 70px;
 	font-style: normal;
 	font-weight: 400;
 	font-variant-caps: 200;
