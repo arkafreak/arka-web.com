@@ -18,9 +18,9 @@ body {
 
 .navbar-brand img {
     height: 50px;
-    padding: 5px;
-    background-color: #495057;
-    border-radius: 5px;
+    padding: 7px;
+    background-color: #fbfcfc;
+    border-radius: 50px;
 }
 
 /* Main Title */
@@ -99,25 +99,26 @@ body {
 
 /* Footer */
 .footer {
-    background-color: #000;
+    background-color: #000 !important;
     color: white;
     padding: 20px 0;
     text-align: center;
-    margin-top: auto;
+    margin-top: 80px;
 }
 
 .footer .btn-outline-light {
     border: 1px solid white;
-    border-radius: 25px;
+    border-radius: 20px;
     padding: 5px 15px;
     margin: 5px;
-    color: white;
-    transition: background-color 0.3s ease;
+    color: rgb(255, 255, 255);
+    transition: background-color 1s ease;
+	transition: color 1s ease
 }
 
 .footer .btn-outline-light:hover {
-    background-color: #333;
-    color: #fff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 /* Responsive Styles */
